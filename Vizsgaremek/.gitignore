@@ -1,0 +1,19 @@
+# Build és IDE fájlok
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pdb
+*.exe
+*.dll
+*.log
+
+# Visual Studio
+.vs/
+
+# Temporary
+*_wpftmp*/
+
+# Others
+*.sourcelink.json
