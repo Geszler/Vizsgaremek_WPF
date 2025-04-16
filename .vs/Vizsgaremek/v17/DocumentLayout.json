@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\vizsgaremek.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\vizsgaremek.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\wordlewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\wordlewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\wordlewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\wordlewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\snakewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\snakewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\snakewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\snakewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\points.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\points.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\leaderboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\leaderboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\leaderboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\leaderboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\gameselectionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\gameselectionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\gameselectionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\gameselectionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\flappybirdwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\flappybirdwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\flappybirdwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\flappybirdwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\converters\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\converters\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\assets\\background.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\assets\\background.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|c:\\users\\geszl\\desktop\\vizsgaremekwpf\\vizsgaremek\\vizsgaremek\\apiservices\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A974AD-68EF-4C35-B989-8A2CD4D6B5ED}|Vizsgaremek\\Vizsgaremek.csproj|solutionrelative:vizsgaremek\\apiservices\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\obj\\Debug\\net8.0-windows\\FlappyBirdWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vizsgaremek\\obj\\Debug\\net8.0-windows\\FlappyBirdWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 34,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\User.cs",
+              "RelativeDocumentMoniker": "Vizsgaremek\\User.cs",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\User.cs",
+              "RelativeToolTip": "Vizsgaremek\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:44:33.896Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SnakeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\SnakeWindow.xaml",
+              "RelativeDocumentMoniker": "Vizsgaremek\\SnakeWindow.xaml",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\SnakeWindow.xaml",
+              "RelativeToolTip": "Vizsgaremek\\SnakeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-22T14:10:17.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SnakeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\SnakeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Vizsgaremek\\SnakeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\SnakeWindow.xaml.cs",
+              "RelativeToolTip": "Vizsgaremek\\SnakeWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:11:08.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\Token.cs",
+              "RelativeDocumentMoniker": "Vizsgaremek\\Token.cs",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\Token.cs",
+              "RelativeToolTip": "Vizsgaremek\\Token.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:45:56.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WordleWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\WordleWindow.xaml",
+              "RelativeDocumentMoniker": "Vizsgaremek\\WordleWindow.xaml",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\WordleWindow.xaml",
+              "RelativeToolTip": "Vizsgaremek\\WordleWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-27T17:04:59.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordleWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\WordleWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Vizsgaremek\\WordleWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\WordleWindow.xaml.cs",
+              "RelativeToolTip": "Vizsgaremek\\WordleWindow.xaml.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAAALwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:05:05.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vizsgaremek.csproj",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\Vizsgaremek.csproj",
+              "RelativeDocumentMoniker": "Vizsgaremek\\Vizsgaremek.csproj",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\Vizsgaremek.csproj",
+              "RelativeToolTip": "Vizsgaremek\\Vizsgaremek.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T13:56:48.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Vizsgaremek\\RegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "Vizsgaremek\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:48:24.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "Vizsgaremek\\RegisterWindow.xaml",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\RegisterWindow.xaml",
+              "RelativeToolTip": "Vizsgaremek\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-09T16:47:43.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Points.cs",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\Points.cs",
+              "RelativeDocumentMoniker": "Vizsgaremek\\Points.cs",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\Points.cs",
+              "RelativeToolTip": "Vizsgaremek\\Points.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:45:20.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Vizsgaremek\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Vizsgaremek\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:18:45.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Vizsgaremek\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\MainWindow.xaml",
+              "RelativeToolTip": "Vizsgaremek\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-09T16:18:47.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LeaderboardWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\LeaderboardWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Vizsgaremek\\LeaderboardWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\LeaderboardWindow.xaml.cs",
+              "RelativeToolTip": "Vizsgaremek\\LeaderboardWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:02:58.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LeaderboardWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\LeaderboardWindow.xaml",
+              "RelativeDocumentMoniker": "Vizsgaremek\\LeaderboardWindow.xaml",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\LeaderboardWindow.xaml",
+              "RelativeToolTip": "Vizsgaremek\\LeaderboardWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-10T19:02:46.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameSelectionWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\GameSelectionWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Vizsgaremek\\GameSelectionWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\GameSelectionWindow.xaml.cs",
+              "RelativeToolTip": "Vizsgaremek\\GameSelectionWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:01:45.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameSelectionWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\GameSelectionWindow.xaml",
+              "RelativeDocumentMoniker": "Vizsgaremek\\GameSelectionWindow.xaml",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\GameSelectionWindow.xaml",
+              "RelativeToolTip": "Vizsgaremek\\GameSelectionWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-16T00:01:20.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FlappyBirdWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\FlappyBirdWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Vizsgaremek\\FlappyBirdWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\FlappyBirdWindow.xaml.cs",
+              "RelativeToolTip": "Vizsgaremek\\FlappyBirdWindow.xaml.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAAAOgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:10:59.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FlappyBirdWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\FlappyBirdWindow.xaml",
+              "RelativeDocumentMoniker": "Vizsgaremek\\FlappyBirdWindow.xaml",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\FlappyBirdWindow.xaml",
+              "RelativeToolTip": "Vizsgaremek\\FlappyBirdWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-27T12:10:47.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Vizsgaremek\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\AssemblyInfo.cs",
+              "RelativeToolTip": "Vizsgaremek\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:56:50.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Vizsgaremek\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\AppDbContext.cs",
+              "RelativeToolTip": "Vizsgaremek\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:42:04.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Vizsgaremek\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\App.xaml.cs",
+              "RelativeToolTip": "Vizsgaremek\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:12:30.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\App.xaml",
+              "RelativeDocumentMoniker": "Vizsgaremek\\App.xaml",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\App.xaml",
+              "RelativeToolTip": "Vizsgaremek\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-16T12:56:43.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\.gitignore",
+              "RelativeDocumentMoniker": "Vizsgaremek\\.gitignore",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\.gitignore",
+              "RelativeToolTip": "Vizsgaremek\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-16T18:45:02.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BoolToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\Converters\\BoolToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "Vizsgaremek\\Converters\\BoolToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\Converters\\BoolToVisibilityConverter.cs",
+              "RelativeToolTip": "Vizsgaremek\\Converters\\BoolToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T10:56:15.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "background.png - PNG [141x250, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\Assets\\background.png",
+              "RelativeDocumentMoniker": "Vizsgaremek\\Assets\\background.png",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\Assets\\background.png - PNG [141x250, 32 bit, PNG]",
+              "RelativeToolTip": "Vizsgaremek\\Assets\\background.png - PNG [141x250, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-16T18:44:45.715Z",
+              "EditorCaption": " - PNG [141x250, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\ApiServices\\ApiClient.cs",
+              "RelativeDocumentMoniker": "Vizsgaremek\\ApiServices\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\ApiServices\\ApiClient.cs",
+              "RelativeToolTip": "Vizsgaremek\\ApiServices\\ApiClient.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:57:40.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FlappyBirdWindow.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\obj\\Debug\\net8.0-windows\\FlappyBirdWindow.g.i.cs",
+              "RelativeDocumentMoniker": "Vizsgaremek\\obj\\Debug\\net8.0-windows\\FlappyBirdWindow.g.i.cs",
+              "ToolTip": "C:\\Users\\geszl\\Desktop\\VizsgaremekWPF\\Vizsgaremek\\Vizsgaremek\\obj\\Debug\\net8.0-windows\\FlappyBirdWindow.g.i.cs",
+              "RelativeToolTip": "Vizsgaremek\\obj\\Debug\\net8.0-windows\\FlappyBirdWindow.g.i.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T23:39:24.959Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 6,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
